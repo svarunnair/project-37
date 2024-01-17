@@ -42,7 +42,7 @@ export default function Footer() {
                         <SiLinkedin />
                         LinkedIn
                     </a>
-              hr      <a ef="https://drive.google.com/file/d/1oPTqS8GiOpuWT1lvq2aBFIHDbxhLQpJq/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                    <a href="https://drive.google.com/file/d/1oPTqS8GiOpuWT1lvq2aBFIHDbxhLQpJq/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                         <HiDocumentText />
                         Resume
                     </a>

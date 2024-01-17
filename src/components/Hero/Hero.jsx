@@ -100,7 +100,7 @@ When I joined Mechanical Engineering I was more interested in learning AutoCAD, 
 Then I realized that I'm more interested in computer software and I feel like I'm a quick learner.<br/>
 
 During lockdown time I came to know about Masai School and I have joined Masai School.<br/>
-I do have one and half years of experience in Reliance General Insurance as Claims Manager<br/>
+I do have one and half years of experience in Reliance General Insurance as Technical Supporter<br/>
 
 Besides coding I also love Driving, playing cricket, and Reading.<br/>
 

@@ -12,7 +12,7 @@ const skills = [
   {type: "HTML", level: 95},
   {type: "React", level: 95},
   {type: "Native", level: 95},
-  {type: "Type Script", level: 90},
+  {type: "Material Ui", level: 90},
   {type: "Redux", level: 95},
   {type: "Chakra Ui", level: 90},
   
