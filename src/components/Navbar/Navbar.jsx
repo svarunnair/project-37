@@ -21,7 +21,7 @@ export default function Navbar() {
                         <SiLinkedin />
                         LinkedIn
                     </a>
-                    <a className='iconTop' href="https://drive.google.com/file/d/1oPTqS8GiOpuWT1lvq2aBFIHDbxhLQpJq/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                    <a className='iconTop' href="https://drive.google.com/file/d/1P8A9OsBGUK4pjx4NDBuq0DyYSbdN_gK0/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                         <HiDocumentText />
                         Resume
                     </a>
