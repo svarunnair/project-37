@@ -1,0 +1,97 @@
+.primary-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3em;
+    height: 100%;
+    width: 60%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 10;
+    background-color: var(--bg);
+    /* navbar starts offscreen */
+    transform: translateX(100%);
+    transition: all .5s ease;
+}
+
+.primary-header .logo {
+    height: 30px;
+}
+
+.primary-header .logo svg {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.primary-header .primary-navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+}
+
+.primary-header .primary-navigation ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3em;
+    text-align: center;
+}
+
+/* #logo-svg #letters {
+   
+} */
+
+/* navbar animation when toggled */
+.primary-header[data-visible="true"] {
+    transform: translateX(0);
+}
+
+/* Slide in animation for navbar on desktop */
+@keyframes slide-in {
+    from {
+        transform: translateY(-100%);
+    }
+
+    to {
+        transform: translateY(0);
+    }
+}
+
+/* responsive media queries */
+
+/* Large ≥992px / desktop navbar */
+@media (min-width:992px) {
+    .primary-header {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        height: var(--nav-height);
+        width: 100%;
+        transform: translateX(0);
+        animation: slide-in 1s ease-in-out;
+        padding: 0 4em;
+    }
+
+    .primary-header .logo {
+        /* place-content: center; */
+        height: 50%;
+        width: auto;
+    }
+
+    .primary-header .logo svg {
+        height: 100%;
+    }
+
+    .primary-header .primary-navigation ul {
+        flex-direction: row;
+    }
+}
+
+
+.iconTop{
+    margin-left: 20px;
+}

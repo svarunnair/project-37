@@ -1,0 +1,16 @@
+{
+  "arun": [{"id":3,"name":"Zara-Clone",
+    "technology":"React - Css  ",
+    "about":"Zara Clone is the project I did during the second unit, it was the main project for the same unit and I have used JavaScript, HTML, and CSS to complete the project. A team of 5 members did it and the project is entirely functional.",
+    "url":"https://github.com/najmushsaaquib/Zara-Clone",
+    "imageUrl":"https://i.imgur.com/BHLGskR.jpg","starred":true,
+    "area":{"id":1,"name":"Website"}},{"id":2,"name":"Zara-Home",
+      "technology":"React - Css",
+      "about":"Zara home Clone is the project I did during the third unit, it was the main project for the same unit and I have used JavaScript, HTML, and CSS to complete the project. A team of 5 members did it and the project is entirely functional.","url":"https://github.com/najmushsaaquib/Zara-Home",
+      "imageUrl":"https://i.imgur.com/OOMVNvy.jpg","starred":true,
+      "area":{"id":1,"name":"Website"}},{"id":1,"name":"IdeaKart",
+        "technology":"React - Css ",
+        "about":"Ideakart is the project I did during the fourth unit, it was the main project for the same unit and I have used React, HTML, and CSS to complete the project. A team of 5 members did it and the project is entirely functional.","url":"https://github.com/Divya3419/Ideakart-clone",
+        "imageUrl":"https://i.imgur.com/SYBGsED.jpg","starred":true,
+        "area":{"id":2,"name":"Desktop App"}}]
+}

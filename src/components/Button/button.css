@@ -1,0 +1,55 @@
+.btn-container, .btn-animation {
+    width: fit-content;
+    height: fit-content;
+}
+
+.btn {
+    background-color: var(--text);
+    padding: 10px 20px;
+    text-align: center;
+    font-weight: 700;
+    border-radius: 10px;
+    color: var(--bg) !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn:hover {
+    color: var(--bg) !important;
+}
+
+/*  */
+
+.btn-light {
+    background-color: white;
+    padding: 10px 20px;
+    text-align: center;
+    font-weight: 700;
+    border-radius: 10px;
+    color: black !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-light:hover {
+    color: black !important;
+}
+
+/*  */
+
+.btn-color {
+    background-color: var(--primary-color);
+    padding: 10px 20px;
+    text-align: center;
+    font-weight: 700;
+    border-radius: 10px;
+    color: white !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-color:hover {
+    color: white !important;
+}
